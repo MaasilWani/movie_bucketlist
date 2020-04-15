@@ -1,0 +1,20 @@
+div{
+    margin-top: 25px;
+}
+
+body{
+     background: url('bg.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+tr{
+    color: white;
+    font-size: 17px;
+    text-shadow: 1px 1px 0 #000, 1px -1px 0 #000; -1px -1px 0 #000;
+}
+
+h1{
+    color: white;
+    text-shadow: 1px 1px 0 #000, 1px -1px 0 #000; -1px -1px 0 #000;
+}
